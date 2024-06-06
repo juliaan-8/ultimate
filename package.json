@@ -32,7 +32,9 @@
     "vite": "^4.5.3"
   },
   "scripts": {
-    "start": "vite build && vite preview"
+    "start": "vite build && vite preview",
+    "build": "vite build"
+
   }
 
 }
